@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class one{
+class main{
     public static void main(String[] args) {
         Scanner Scr = new Scanner(System.in);
         System.out.println("How many iteration?");
